@@ -1,26 +1,19 @@
 '''
 This version uses a feature detector.
-
 I will try to make it so we can turn the feature
 detector on and off. For now, just use KeyboardRover20.py
 to drive the rover using its unaltered images.
-
 I also may omit the feature detector altogether,
 depending on our needs once we get the neural network
 up and running.
-
 Another issue: infrared does not work with the 
 feature detector, so use KeyboardRover20.py to
 use infrared.
-
 CONTROLS:
-
 WASD - Drive
 SPACE - Take Picture
-
 J - Camera Up
 K - Camera Down
-
 U - Toggle Infrared
 I - Toggle Lights
 '''
